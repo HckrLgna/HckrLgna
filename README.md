@@ -9,19 +9,19 @@ I'm an **software engineer** at UAGRM and a **freelance web developer** passiona
 - 🔎 **Problem Solving** – Participating in coding contests and project-solving challenges  
 
 ## 🛠 Tech Stack  
-- **Languages:** JavaScript, HTML, CSS  
+- **Languages:** JavaScript, TypeScript, Dart
 - **Frontend:** React, Vue.js  
-- **Mobile:** Flutter, React Native  
-- **Backend:** Node.js, Firebase  
-- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Mobile:** Flutter, Android
+- **Backend:** Node.js, Laravel, SpringBot  
+- **Tools & Platforms:** Git, GitHub, VS Code, Azure, AWS, Google Cloud
 
 ## 📫 Connect With Me  
 - LinkedIn: [https://www.linkedin.com/in/angelcharcablanco/](#)  
-- GitHub: [(https://github.com/HckrLgna)](#)  
+- GitHub: [https://github.com/HckrLgna](#)  
 - Portfolio: [http://lgnasolutions.systems/](#)  
 
 ## 🎯 Goals  
-- 🏆 Work at a high-tech company like Google or Meta  
+- 🏆 Work at a high-tech company
 - 💡 Keep learning and growing in web and mobile development  
 - 👨‍💻 Contribute to open-source projects  
 
